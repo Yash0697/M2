@@ -1,0 +1,9 @@
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/Yash0697/Angular.git
+[submodule "HTML-Web-Basics"]
+	path = HTML-Web-Basics
+	url = https://github.com/Yash0697/HTML-Web-Basics.git
+[submodule "CSS-Web-Basics"]
+	path = CSS-Web-Basics
+	url = https://github.com/Yash0697/CSS-Web-Basics.git
